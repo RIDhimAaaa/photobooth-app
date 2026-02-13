@@ -1,1 +1,1 @@
-# photobooth-app
+A weekend photobooth app built with FastAPI and React + TypeScript.
